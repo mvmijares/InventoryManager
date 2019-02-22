@@ -24,3 +24,4 @@ public interface IStats {
     int EVA { get; set; }
     int LUK { get; set; }
 }
+
